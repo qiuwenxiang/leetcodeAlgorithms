@@ -1,4 +1,4 @@
-package java.Array;
+package com.leetcode.java.Array;
 
 
 import org.junit.Test;
