@@ -1,0 +1,3 @@
+import pyduktape
+
+pyduktape.DuktapeContext()
