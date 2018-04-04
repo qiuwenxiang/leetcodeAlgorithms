@@ -1,6 +1,7 @@
-package com.leetcode.java.LinkedList;
+package com.leetcode.java.BitManipulation;
 
 /**
+ * 位操作
  * @author kylin.qiuwx@foxmail.com
  * @Description: 判断一个数是否是4的幂次方
  *
