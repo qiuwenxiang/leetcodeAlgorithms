@@ -29,7 +29,9 @@
         - 107   Binary Tree Level Order Traversal II 
         - 226   Invert Binary Tree   
         - 404	Sum of Left Leaves  
-        - 538   Convert BST to Greater Tree    
+        - 538   Convert BST to Greater Tree
+        - 543   Diameter of Binary Tree
+        - 563	Binary Tree Tilt        
         - 606   Construct String from Binary Tree    
         - 617   Merge Two Binary Trees
         - 637   Average of Levels in Binary Tree 
