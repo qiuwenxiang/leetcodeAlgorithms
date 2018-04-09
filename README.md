@@ -22,6 +22,9 @@
         - 728   Self Dividing Numbers 
         
     - ReservoirSampling
+    - stack
+        - 20    Valid Parentheses
+        - 155   Min Stack
     - tree
         - 100   Same Tree 
         - 101   Symmetric Tree 
