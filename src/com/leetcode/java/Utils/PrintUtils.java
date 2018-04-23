@@ -8,4 +8,12 @@ public class PrintUtils {
             System.out.println(i);
         }
     }
+
+    public static void main(String[] args) {
+        String s = "405. Convert a Number to Hexadecimal";
+        String title= "_"+s.replace(" ","").replace(".","");
+        String md= s.replace("."," ");
+        System.out.println(title);
+        System.out.println(md);
+    }
 }

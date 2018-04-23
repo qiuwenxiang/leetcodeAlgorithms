@@ -6,10 +6,11 @@
         - 1 Two Sum
         - 26    Remove Duplicates from Sorted Array   
         - 167   Two Sum II - Input array is sorted  
-        - 189   Rotate Array   
+        - 189   Rotate Array 
+        - 532   K-diff Pairs in an Array  
     - BitManipulation
         - 342   Power of Four
-        
+        - 405   Convert a Number to Hexadecimal
     - hashtab
         - 205   Isomorphic Strings
         - 771   Jewels and Stones 
@@ -26,6 +27,8 @@
         - 20    Valid Parentheses
         - 155   Min Stack
         - 682   Baseball Game
+    - String
+        - 344   Reverse String    
     - tree
         - 100   Same Tree 
         - 101   Symmetric Tree 
@@ -33,6 +36,7 @@
         - 107   Binary Tree Level Order Traversal II 
         - 226   Invert Binary Tree   
         - 404	Sum of Left Leaves  
+        - 530   Minimum Absolute Difference in BST
         - 538   Convert BST to Greater Tree
         - 543   Diameter of Binary Tree
         - 563	Binary Tree Tilt        
