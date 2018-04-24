@@ -15,6 +15,7 @@
         - 205   Isomorphic Strings
         - 771   Jewels and Stones 
     - LinkedList
+        - 23   Merge k Sorted Lists
         - 21    Merge Two Sorted Lists  
         - 83    Remove Duplicates from Sorted List 
         - 206   Reverse Linked List   
@@ -28,7 +29,9 @@
         - 155   Min Stack
         - 682   Baseball Game
     - String
-        - 344   Reverse String    
+        - 38    Count and Say
+        - 344   Reverse String  
+        - 383   Ransom Note  
     - tree
         - 100   Same Tree 
         - 101   Symmetric Tree 
