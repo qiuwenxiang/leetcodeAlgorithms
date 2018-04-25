@@ -11,6 +11,7 @@
     - BitManipulation
         - 342   Power of Four
         - 405   Convert a Number to Hexadecimal
+        - 461   Hamming Distance
     - hashtab
         - 205   Isomorphic Strings
         - 771   Jewels and Stones 
