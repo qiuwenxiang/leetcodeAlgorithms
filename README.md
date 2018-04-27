@@ -9,6 +9,7 @@
         - 189   Rotate Array 
         - 532   K-diff Pairs in an Array  
     - BitManipulation
+        - 137   Single Number II
         - 342   Power of Four
         - 405   Convert a Number to Hexadecimal
         - 461   Hamming Distance

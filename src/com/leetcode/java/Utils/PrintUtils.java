@@ -10,7 +10,7 @@ public class PrintUtils {
     }
 
     public static void main(String[] args) {
-        String s = "461. Hamming Distance";
+        String s = "137. Single Number II";
         String title= "_"+s.replace(" ","").replace(".","");
         String md= s.replace(".","  ");
         System.out.println(title);
