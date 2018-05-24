@@ -13,6 +13,9 @@
         - 342   Power of Four
         - 405   Convert a Number to Hexadecimal
         - 461   Hamming Distance
+    - DynamicProgramming
+        - 198   House Robber
+    
     - hashtab
         - 205   Isomorphic Strings
         - 500   Keyboard Row
